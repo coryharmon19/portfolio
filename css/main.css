@@ -1,1 +1,17 @@
-asdfghjkl
+@font-face {
+    font-family: 'Quicksand regular';
+    src: url('fonts/quicksand-regular-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+p {
+	font-family: 'Quicksand regular', sans-serif;
+}
+
+@font-face {
+    font-family: 'Firesans regular';
+    src: url('fonts/firesans-regular-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
